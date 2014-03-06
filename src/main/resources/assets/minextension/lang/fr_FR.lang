@@ -1,0 +1,107 @@
+// Tabs
+itemGroup.MinExtension=MinExtension
+// Ores
+tile.copperOre.name=Minerai de cuivre
+tile.platinumOre.name=Minerai de platine
+tile.rubyOre.name=Minerai de rubis
+tile.sapphireOre.name=Minerai de saphir
+tile.onyxOre.name=Minerai d'onyx
+tile.topazeOre.name=Minerai de topaz
+tile.mythrilOre.name=Minerai de mithril
+tile.amethystOre.name=Minerai d'améthyste
+// Blocks
+tile.copperBlock.name=Bloc de cuivre
+tile.platinumBlock.name=Bloc de platine
+tile.rubyBlock.name=Bloc de rubis
+tile.sapphireBlock.name=Bloc de saphir
+tile.onyxBlock.name=Bloc d'onyx
+tile.topazeBlock.name=Bloc de topaz
+tile.mythrilBlock.name=Bloc de mithril
+tile.amethystBlock.name=Bloc d'améthyste
+// Items
+item.copperIngot.name=Lingot de cuivre
+item.platinumIngot.name=Lingot de platine
+item.rubyGem.name=Gemme de rubis
+item.sapphireNugget.name=Pépite de saphir
+item.topazeGem.name=Gemme de topaz
+item.onyxIngot.name=Lingot d'onyx
+item.mythrilPiece.name=Pièce de mithril
+item.amethystPiece.name=Pièce d'améthyste
+item.dragonRespawner.name=Enderdragon Summoner
+// Swords
+item.copperSword.name=Épée en cuivre
+item.platinumSword.name=Épée en platine
+item.rubySword.name=Épée en rubis
+item.sapphireSword.name=Épée en saphir
+item.topazeSword.name=Épée en topaz
+item.onyxSword.name=Épée en onyx
+item.mythrilSword.name=Épée en mithril
+item.amethystSword.name=Épée en améthyste
+// Axes
+item.copperAxe.name=Hache en cuivre 
+item.platinumAxe.name=Hache en platine
+item.rubyAxe.name=Hache en rubis
+item.sapphireAxe.name=Hache en saphir
+item.topazeAxe.name=Hache en topaz
+item.onyxAxe.name=Hache en onyx
+item.mythrilAxe.name=Hache en mithril
+item.amethystAxe.name=Hache en améthyste
+// Pickaxes
+item.copperPickaxe.name=Pioche en cuivre
+item.platinumPickaxe.name=Pioche en platine
+item.rubyPickaxe.name=Pioche en rubis
+item.sapphirePickaxe.name=Pioche en saphir
+item.topazePickaxe.name=Pioche en topaz
+item.onyxPickaxe.name=Pioche en onyx
+item.mthrilPickaxe.name=Pioche en mithril
+item.amethystPickaxe.name=Pioche en améthyste
+// Spades
+item.copperSpade.name=Pelle en cuivre
+item.platinumSpade.name=Pelle en platine
+item.rubySpade.name=Pelle en rubis
+item.sapphireSpade.name=Pelle en saphir
+item.topazeSpade.name=Pelle en topaz
+item.onyxSpade.name=Pelle en onyx
+item.mythrilSpade.name=Pelle en mithril
+item.amethystSpade.name=Pelle en améthyste
+// Hoes
+item.copperHoe.name=Copper Hoe
+item.platinumHoe.name=Platinum Hoe
+item.rubyHoe.name=Ruby Hoe
+item.sapphireHoe.name=Sapphire Hoe
+item.topazeHoe.name=Topaze Hoe
+item.onyxHoe.name=Onyx Hoe
+item.mythrilHoe.name=Mythril Hoe
+item.amethystHoe.name=Amethyst Hoe
+// Helmets
+item.copperHelmet.name=Copper Helmet
+item.platinumHelmet.name=Platinum Helmet
+item.rubyHelmet.name=Ruby Helmet
+item.sapphireHelmet.name=Sapphire Helmet
+item.onyxHelmet.name=Onyx Helmet
+item.amethystHelmet.name=Amethyst Helmet
+// Chestplates
+item.copperChestplate.name=Copper Chestplate
+item.platinumChestplate.name=Platinum Chestplate
+item.rubyChestplate.name=Ruby Chestplate
+item.sapphireChestplate.name=Sapphire Chestplate
+item.onyxChestplate.name=Onyx Chestplate
+item.amethystChestplate.name=Amethyst Chestplate
+// Leggings
+item.copperLeggings.name=Copper Leggings
+item.platinumLeggings.name=Platinum Leggings
+item.rubyLeggings.name=Ruby Leggings
+item.sapphireLeggings.name=Sapphire Leggings
+item.onyxLeggings.name=Onyx Leggings
+item.amethystLeggings.name=Amethyst Leggings
+// Boots
+item.copperBoots.name=Copper Boots
+item.platinumBoots.name=Platinum Boots
+item.rubyBoots.name=Ruby Boots
+item.sapphireBoots.name=Sapphire Boots
+item.onyxBoots.name=Onyx Boots
+item.amethystBoots.name=Amethyst Boots
+// Entities
+entity.netherCreeper.name=Nether Creeper
+entity.enderCreeper.name=Ender Creeper
+entity.netherMan.name=Netherman
